@@ -2,14 +2,14 @@
 
 ![Machine Learning](/imagenes/machinelearning.png)
 
-![Neural Network](\imagenes\NN.png)
+![Neural Network](/imagenes/NN.png)
 
-![Supervised](\imagenes\supervised.png)
+![Supervised](/imagenes/supervised.png)
 
-![Unsupervised](\imagenes\unsupervised.png)
+![Unsupervised](/imagenes/unsupervised.png)
 
-![Semi Supervised](\imagenes\semisupervised.png)
+![Semi Supervised](/imagenes/semisupervised.png)
 
-![Reinforce Learning](\imagenes\Reinforcement.png)
+![Reinforce Learning](/imagenes/Reinforcement.png)
 
-![Others](\imagenes\others.png)
+![Others](/imagenes/others.png)
