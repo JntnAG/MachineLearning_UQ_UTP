@@ -1,6 +1,6 @@
 # MachineLearning_UQ_UTP
 
-![Machine Learning](imagenes\machinelearning.png)
+![Machine Learning](/imagenes/machinelearning.png)
 
 ![Neural Network](\imagenes\NN.png)
 
