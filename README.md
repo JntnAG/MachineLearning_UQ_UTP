@@ -10,6 +10,6 @@
 
 ![Semi Supervised](/imagenes/semisupervised.png)
 
-![Reinforce Learning](/imagenes/Reinforcement.png)
+![Reinforce Learning](/imagenes/reinforcement.png)
 
 ![Others](/imagenes/others.png)
