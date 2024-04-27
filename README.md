@@ -1,4 +1,5 @@
 # MachineLearning_UQ_UTP
+https://chart-studio.plotly.com/~SolClover/40.embed
 
 ![Machine Learning](/imagenes/machinelearning.png)
 
