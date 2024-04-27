@@ -1,5 +1,5 @@
 # MachineLearning_UQ_UTP
-<a href="[https://www.ejemplo.com](https://chart-studio.plotly.com/~SolClover/40.embed)" target="_blank">Abrir en nueva pestaña</a>
+<a href="[https://chart-studio.plotly.com/~SolClover/40.embed]()" target="_blank">Machine Learning Interactivo</a>
 
 
 ![Machine Learning](/imagenes/machinelearning.png)
