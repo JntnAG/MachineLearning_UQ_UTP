@@ -1,0 +1,50 @@
+
+Sage basics  					1_Gnn   		Cora dataset		node clasf
+Convolucion (Chebynet, GCNConv)			2_ConvGraph		Karate Club		node pred
+Attention Graph (ejercicicos brain) 		3_attention		Cora dataset		node clasf
+GIN-(Aggregation)				4_GIN_Aggregation	Mutagent_TUdataset	graph Clasf
+GraphSAGE					5_GraphSAGE		Pubmed			node clasf
+GAE y VGAE					6_GAE_VGAE		CiteSeer		Edge emb
+DeepWalk & Node2vec				7_DeepWalk_Node2Vec	movieles, karate, predefinido	Node similarity	
+ARGA Y ARVGA					8_ARGA_ARVGA
+https://github.com/PacktPublishing/Hands-On-Graph-Neural-Networks-Using-Python/blob/main/Chapter03/chapter3.ipynb
+3 deepwalk-------------------
+4 node2vec------------------
+5. MLP
+6. normalizaed GNC con wikipedia db----------------
+7. GAT-----------------------
+8. SAGE pubmed------------------
+9. GIN Expressiveness-------------
+10. VAE GAE ---------------------
+11. Generating MoiGAN
+12. Heterogeno,   Hierarchical Self-attention (HAN)
+13. Temporal Graph
+14. Explain graph captum
+15. A3T GCN  temporal
+16. Heterogeneo GNN
+17. Recommending Books using LightGCN
+ 
+
+https://github.com/AntonioLonga/PytorchGeometricTutorial
+8. Generating  NetGan
+9. Recurrentes
+12. Link predicction con GAL y node2vec
+13. Meta path2vec
+14.15 data handling node, graph, edge
+
+torch-cluster
+https://pypi.org/project/torch-cluster/#knn-graph 
+
+advance
+graphgym
+ogb opengraphbenchmark
+heterogeneus learning
+minibatching
+memory efficiente
+temporales
+
+a revisar
+GLASS -> A Graph Laplacian Autoencoder with Subspace Clustering Regularization for Graph Clustering
+R-GAE (Rethinking Graph Auto-Encoder Models for Attributed Graph Clustering)
+MGAE marginalized
+RWR-VGAE
