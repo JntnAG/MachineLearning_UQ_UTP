@@ -30,7 +30,7 @@ El contenido está dividido en 10 módulos progresivos. Haz clic en cada curso p
 | 03 | [**Modelos Probabilísticos**](./03-modelos-probabilisticos/) | Inferencia Bayesiana, Procesos Gaussianos, BNN, Normalizing Flows. |
 | 04 | [**Graph Neural Networks (GNN)**](./04-graph-neural-networks/) | PyTorch Geometric, NetworkX, Conv GNN, GraphSAGE, VGAE, Node2Vec. |
 | 05 | [**NLP y Transformers**](./05-nlp-transformers/) | Procesamiento de Lenguaje Natural, RNNs, LSTMs, Mecanismo de Atención. |
-| 06 | [**Clustering & Manifold Learning**](./06-clustering-manifold-learning/) | K-Means, DBSCAN, Jerárquico, PCA, t-SNE, UMAP. |
+| 06 | [**Clustering & Manifold Learning**](./06-clustering-manifold-learning/) | K-Means, GMM, DBSCAN, Jerárquico, PCA, t-SNE, UMAP. |
 | 07 | [**MLOps & Despliegue**](./07-mlops-despliegue/) | Pipelines, Flask REST APIs, UI con Gradio, puesta en producción. |
 | 08 | [**Bases de Datos & SQL/NoSQL**](./08-bases-de-datos-sql-nosql/) | Conceptos, scripts prácticos, NoSQL y DBaaS. |
 | 09 | [**Web Scraping & Datos**](./09-web-scraping-datos/) | Extracción de datos de la web con Python. |
